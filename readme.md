@@ -5,7 +5,7 @@
 | ==============================================================================
 |
 | Name:
-| File Count Guessing Game 
+| File Count Guessing Game
 |
 | Description:
 | This bash scripe implements a simpe guessing game which asks the user to guess
