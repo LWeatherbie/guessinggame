@@ -28,7 +28,7 @@ readme.md:
 	echo "15 Jan 21" >> README.md
 	echo "" >> README.md
 	echo "### Modification History:" >> README.md
-	echo "No modifications recorded."
+	echo "No modifications recorded." >> README.md
 	echo "" >> README.md
 	echo "---" >> README.md
 	echo "makefile last run: "`date`"." >>README.md
