@@ -2,14 +2,14 @@
 
 ## Group Assignment for *The Unix Workbench* course offered by **Coursera.org**
 
-## Name:
+### Name:
 File Count Guessing Game
 
-## Description:
-This bash scripe implements a simpe guessing game which asks the user to guess
+### Description:
+This bash script implements a simple guessing game which asks the user to guess
 the number of files in the current directory. With each guess, the script tells
-the user whether their guess is too high, to low, or correct. If a correct guess
-is made, the scipt exits
+the user whether their guess is too high, too low, or correct. If a correct guess
+is made, the script exits
 
 This script demonstrates the following bash features:
 - user input
@@ -17,12 +17,14 @@ This script demonstrates the following bash features:
 - while loops
 - if then else
 
-## Written by:
+### Written by:
 Leo Weatherbie
 
-## Date Written: 15 Jan 21
+### Date Written: 15 Jan 21
 
-## Modification History:
+### Modification History:
 
-makefile last run: Fri 15 Jan 2021 12:04:10 PM MST.
+---
+makefile last run: Fri 15 Jan 2021 12:11:18 PM MST.
+
 guessinggame.sh contains 36 lines of code.
