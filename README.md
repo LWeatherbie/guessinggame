@@ -11,7 +11,7 @@ the number of files in the current directory. With each guess, the script tells
 the user whether their guess is too high, too low, or correct. If a correct guess
 is made, the script exits
 
-This script demonstrates the following bash features:
+This script demonstrates the following bash script features:
 - user input
 - functions
 - while loops
@@ -20,11 +20,12 @@ This script demonstrates the following bash features:
 ### Written by:
 Leo Weatherbie
 
-### Date Written: 15 Jan 21
+### Date Written:
+15 Jan 21
 
 ### Modification History:
 
 ---
-makefile last run: Fri 15 Jan 2021 12:11:18 PM MST.
+makefile last run: Fri 15 Jan 2021 12:15:26 PM MST.
 
 guessinggame.sh contains 36 lines of code.
