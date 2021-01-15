@@ -3,6 +3,7 @@ all: readme.md
 readme.md:
 
 	echo "# Guessing Game Bash Script [guessinggame.sh]" > README.md
+	create_date=$(`date`)
 	echo "" >> README.md
 	echo "## Group Assignment for *The Unix Workbench* course offered by **Coursera.org**" >> README.md
 	echo "" >> README.md
@@ -31,4 +32,7 @@ readme.md:
 	echo "| Modification History:" >> README.md
 	echo "|" >> README.md
 	echo "| ==============================================================================" >> README.md
-
+	echo "" >>README.md
+	echo "makefile last run: "`date` >>README.md
+	echo "guessinggame.sh contains "`egrep -v -c ^.*# guessinggame.sh`" lines of code." >> README.md
+ 

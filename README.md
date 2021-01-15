@@ -27,3 +27,6 @@
 | Modification History:
 |
 | ==============================================================================
+
+makefile last run: Fri 15 Jan 2021 11:12:47 AM MST
+guessinggame.sh contains 36 lines of code.

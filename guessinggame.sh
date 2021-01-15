@@ -12,7 +12,7 @@ function rank_guess {
 #	1 - User's guess is too high
 #	-1 - User's guess is too low
 
-	# get the number of files and set "result"
+	# get the number of files and set <result>
 	local file_count=$(ls | wc -l)
 
 	# compare with the user's guess
@@ -30,7 +30,7 @@ function rank_guess {
 # Start by setting a boolean to control the loop
 incorrect=true
 
-" Loop until a correct answer is provided
+# Loop until a correct answer is provided
 while $incorrect
 do
 	# Print a blank line for readability then ask the user  for a guess
