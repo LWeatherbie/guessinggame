@@ -1,6 +1,6 @@
 # Guessing Game Bash Script [guessinggame.sh]
 
-## Group Assignment for *The Unix Workbench* course offered by **Coursera.org**
+## Group Assignment for *The Unix Workbench* Course offered by **Coursera.org**
 
 ### Name:
 File Count Guessing Game
@@ -27,6 +27,6 @@ Leo Weatherbie
 No modifications recorded.
 
 ---
-makefile last run: Fri 15 Jan 2021 01:20:32 PM MST.
+makefile last run: Fri 15 Jan 2021 01:25:43 PM MST.
 
 guessinggame.sh contains 36 lines of code.

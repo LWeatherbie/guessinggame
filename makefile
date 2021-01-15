@@ -4,7 +4,7 @@ readme.md:
 
 	echo "# Guessing Game Bash Script [guessinggame.sh]" > README.md
 	echo "" >> README.md
-	echo "## Group Assignment for *The Unix Workbench* course offered by **Coursera.org**" >> README.md
+	echo "## Group Assignment for *The Unix Workbench* Course offered by **Coursera.org**" >> README.md
 	echo "" >> README.md
 	echo "### Name:" >> README.md
 	echo "File Count Guessing Game" >> README.md 

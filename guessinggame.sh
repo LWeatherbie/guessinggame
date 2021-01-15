@@ -12,7 +12,7 @@ function rank_guess {
 #	1 - User's guess is too high
 #	-1 - User's guess is too low
 
-	# get the number of files and set <result>
+	# get the number of files and set "result" variable
 	local file_count=$(ls | wc -l)
 
 	# compare with the user's guess
